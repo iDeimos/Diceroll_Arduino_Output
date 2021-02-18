@@ -1,4 +1,4 @@
-
+import time
 
 
 def checklistval():  # Logic to turn on specified LEDs based on list input
